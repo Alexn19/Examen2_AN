@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub Projects\\Examen2_AN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|e:\\github projects\\examen2_an\\assets\\scripts\\decisionbuttontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\decisionbuttontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\governmentdecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\governmentdecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\increasemoneystrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\increasemoneystrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\moneyresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moneyresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\populationhappinessresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\populationhappinessresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\resourcedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\idecisionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\idecisionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\decreasehappniesstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\decreasehappniesstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResourceDisplay.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\ResourceDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceDisplay.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\ResourceDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:16:36.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PopulationHappinessResource.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\PopulationHappinessResource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PopulationHappinessResource.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\PopulationHappinessResource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PopulationHappinessResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:16:34.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoneyResource.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\MoneyResource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoneyResource.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\MoneyResource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoneyResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:16:32.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IncreaseMoneyStrategy.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\IncreaseMoneyStrategy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IncreaseMoneyStrategy.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\IncreaseMoneyStrategy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IncreaseMoneyStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:16:26.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GovernmentDecision.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\GovernmentDecision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GovernmentDecision.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\GovernmentDecision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GovernmentDecision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:15:41.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAswKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:15:39.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DecreaseHappniesStrategy.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\DecreaseHappniesStrategy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DecreaseHappniesStrategy.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\DecreaseHappniesStrategy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DecreaseHappniesStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:15:36.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DecisionButtonTest.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\DecisionButtonTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DecisionButtonTest.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\DecisionButtonTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DecisionButtonTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:15:33.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Resource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Resource.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Resource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:16:35.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDecisionStrategy.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\IDecisionStrategy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IDecisionStrategy.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\IDecisionStrategy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IDecisionStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:16:24.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
