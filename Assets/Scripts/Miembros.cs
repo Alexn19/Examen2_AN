@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Animations;
+using GameJolt.API;
 
 public class Miembros : MonoBehaviour
 {
@@ -25,6 +26,10 @@ public class Miembros : MonoBehaviour
             numero += 1;
             datos.AumentarMiembros($"Miembro {numero}");
             datos.PerderPresupuesto( costoContratacion );
+            if (datos.Mostrarmiembros() >= 10)
+            {
+                Trophies.Unlock(270084);
+            }
         }
         else
         {

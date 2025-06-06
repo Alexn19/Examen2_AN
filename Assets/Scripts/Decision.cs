@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using GameJolt.API;
 
 public class Decision : MonoBehaviour, IProbabilidad
 {
@@ -24,6 +25,7 @@ public class Decision : MonoBehaviour, IProbabilidad
             if (numeroAleatorio <= probabilidad)
             {
                 Debug.Log("Decision Exitosa");
+                Trophies.Unlock(270085);
                 SceneManager.LoadScene("Fin");
             }
             else

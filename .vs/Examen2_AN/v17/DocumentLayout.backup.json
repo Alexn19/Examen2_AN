@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "E:\\GitHub Projects\\Examen2_AN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|e:\\github projects\\examen2_an\\assets\\scripts\\decision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\decision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\miembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|e:\\github projects\\examen2_an\\assets\\scripts\\indicadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\indicadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,8 +15,36 @@
       "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iprobabilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\miembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\escenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\iniciogamejolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iniciogamejolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|e:\\github projects\\examen2_an\\assets\\scripts\\botonesgamejolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\botonesgamejolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|e:\\github projects\\examen2_an\\assets\\scripts\\victoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\victoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\datosgobierno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datosgobierno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\indicadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\indicadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\decision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\decision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +54,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "BotonesGamejolt.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\BotonesGamejolt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BotonesGamejolt.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\BotonesGamejolt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BotonesGamejolt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:29:55.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Victoria.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Victoria.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Victoria.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Victoria.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Victoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:22:34.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatosGobierno.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\DatosGobierno.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DatosGobierno.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\DatosGobierno.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DatosGobierno.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:22:15.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InicioGamejolt.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\InicioGamejolt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InicioGamejolt.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\InicioGamejolt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InicioGamejolt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:53:19.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Escenas.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Escenas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escenas.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Escenas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escenas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:27:03.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Indicadores.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Indicadores.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Indicadores.cs",
               "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Indicadores.cs",
               "RelativeToolTip": "Assets\\Scripts\\Indicadores.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T20:15:30.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Solicitud.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Solicitud.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Solicitud.cs",
               "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Solicitud.cs",
               "RelativeToolTip": "Assets\\Scripts\\Solicitud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T18:57:31.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Accion.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Accion.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Accion.cs",
               "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Accion.cs",
               "RelativeToolTip": "Assets\\Scripts\\Accion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T18:20:44.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "IProbabilidad.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\IProbabilidad.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IProbabilidad.cs",
@@ -94,42 +175,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Miembros.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Miembros.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Miembros.cs",
               "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Miembros.cs",
               "RelativeToolTip": "Assets\\Scripts\\Miembros.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T18:52:45.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Decision.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Decision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Decision.cs",
               "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Decision.cs",
               "RelativeToolTip": "Assets\\Scripts\\Decision.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T19:05:49.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DatosGobierno.cs",
-              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\DatosGobierno.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DatosGobierno.cs",
-              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\DatosGobierno.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DatosGobierno.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T18:22:15.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T19:05:49.689Z"
             }
           ]
         }

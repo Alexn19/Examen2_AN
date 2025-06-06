@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Victoria">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Victoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatosGobierno">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQACACAACAAAAAIAAAAgACAAAAAAAAAAAAAAAAEAIA=</HashCode>
+      <FileName>Assets\Scripts\DatosGobierno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decision" BaseTypeListCollapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACAIAACAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Decision.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Escenas">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Escenas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indicadores">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAoAAAAAAAAAAACAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Indicadores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InicioGamejolt">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\InicioGamejolt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Miembros">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAACAAAAAAAAAAAAAAAACgAAEAEAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Miembros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Solicitud">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAACAAAAAAAAAAAAABAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Solicitud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BotonesGamejolt">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\BotonesGamejolt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Accion">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Accion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="IProbabilidad">
+    <Position X="3.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IProbabilidad.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
