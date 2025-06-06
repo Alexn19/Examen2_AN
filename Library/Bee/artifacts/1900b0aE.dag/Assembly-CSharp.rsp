@@ -343,16 +343,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Scripts/DecisionButtonTest.cs"
-"Assets/Scripts/DecreaseHappniesStrategy.cs"
-"Assets/Scripts/GameManager.cs"
-"Assets/Scripts/GovernmentDecision.cs"
-"Assets/Scripts/IDecisionStrategy.cs"
-"Assets/Scripts/IncreaseMoneyStrategy.cs"
-"Assets/Scripts/MoneyResource.cs"
-"Assets/Scripts/PopulationHappinessResource.cs"
-"Assets/Scripts/Resource.cs"
-"Assets/Scripts/ResourceDisplay.cs"
+"Assets/Scripts/Accion.cs"
+"Assets/Scripts/DatosGobierno.cs"
+"Assets/Scripts/Decision.cs"
+"Assets/Scripts/Indicadores.cs"
+"Assets/Scripts/IProbabilidad.cs"
+"Assets/Scripts/Miembros.cs"
+"Assets/Scripts/Solicitud.cs"
 -langversion:9.0
 
 /deterministic
