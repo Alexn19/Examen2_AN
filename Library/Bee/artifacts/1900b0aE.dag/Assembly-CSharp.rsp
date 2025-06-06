@@ -346,6 +346,7 @@
 "Assets/Scripts/Accion.cs"
 "Assets/Scripts/DatosGobierno.cs"
 "Assets/Scripts/Decision.cs"
+"Assets/Scripts/Escenas.cs"
 "Assets/Scripts/Indicadores.cs"
 "Assets/Scripts/IProbabilidad.cs"
 "Assets/Scripts/Miembros.cs"

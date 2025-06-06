@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Decision : MonoBehaviour, IProbabilidad
 {
@@ -23,6 +24,7 @@ public class Decision : MonoBehaviour, IProbabilidad
             if (numeroAleatorio <= probabilidad)
             {
                 Debug.Log("Decision Exitosa");
+                SceneManager.LoadScene("Fin");
             }
             else
             {

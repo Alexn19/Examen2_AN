@@ -11,7 +11,11 @@
       "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|e:\\github projects\\examen2_an\\assets\\scripts\\indicadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|e:\\github projects\\examen2_an\\assets\\scripts\\escenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|E:\\GitHub Projects\\Examen2_AN\\assets\\scripts\\indicadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AD4BC43-B1D6-0043-D4DD-054FF3CE328B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\indicadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Escenas.cs",
+              "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Escenas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escenas.cs",
+              "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Escenas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escenas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:27:03.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Indicadores.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Indicadores.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Indicadores.cs",
@@ -50,12 +67,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Indicadores.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T20:15:30.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T20:15:30.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Solicitud.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Solicitud.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Solicitud.cs",
@@ -63,12 +79,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Solicitud.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T18:57:31.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T18:57:31.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Accion.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Accion.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Accion.cs",
@@ -76,12 +91,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Accion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T18:20:44.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T18:20:44.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IProbabilidad.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\IProbabilidad.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IProbabilidad.cs",
@@ -89,8 +103,7 @@
               "RelativeToolTip": "Assets\\Scripts\\IProbabilidad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T18:45:58.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T18:45:58.508Z"
             },
             {
               "$type": "Document",
@@ -113,14 +126,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Decision.cs",
               "ToolTip": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\Decision.cs",
               "RelativeToolTip": "Assets\\Scripts\\Decision.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T19:05:49.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DatosGobierno.cs",
               "DocumentMoniker": "E:\\GitHub Projects\\Examen2_AN\\Assets\\Scripts\\DatosGobierno.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DatosGobierno.cs",
@@ -128,8 +141,7 @@
               "RelativeToolTip": "Assets\\Scripts\\DatosGobierno.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T18:22:15.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T18:22:15.716Z"
             }
           ]
         }

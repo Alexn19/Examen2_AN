@@ -56,13 +56,14 @@
     <Analyzer Include="E:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Accion.cs" />
-    <Compile Include="Assets\Scripts\DatosGobierno.cs" />
-    <Compile Include="Assets\Scripts\IProbabilidad.cs" />
     <Compile Include="Assets\Scripts\Miembros.cs" />
-    <Compile Include="Assets\Scripts\Solicitud.cs" />
     <Compile Include="Assets\Scripts\Decision.cs" />
+    <Compile Include="Assets\Scripts\Solicitud.cs" />
+    <Compile Include="Assets\Scripts\DatosGobierno.cs" />
     <Compile Include="Assets\Scripts\Indicadores.cs" />
+    <Compile Include="Assets\Scripts\IProbabilidad.cs" />
+    <Compile Include="Assets\Scripts\Accion.cs" />
+    <Compile Include="Assets\Scripts\Escenas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
